@@ -874,6 +874,7 @@ body.lock {
 @media (max-width: 480.98px) {
   .terra-2 .alphawood__content-line-block {
     transform: translate(110px, 0);
+    height: calc(100% - 8px);
   }
 }
 .terra-2 .alphawood__content-line.animate__animated {
